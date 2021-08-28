@@ -1,0 +1,31 @@
+{
+  "name": "weebemov1",
+  "version": "1.0.0",
+  "description": "A discord bot",
+  "main": "index.js",
+  "enigines": {
+    "node": "16.8.0",
+    "npm": "*"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JasonCarvalho-tech/weebemov1.git"
+  },
+  "keywords": [
+    "heroku",
+    "discord.js"
+  ],
+  "author": "Jason Carvalho",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JasonCarvalho-tech/weebemov1/issues"
+  },
+  "homepage": "https://github.com/JasonCarvalho-tech/weebemov1#readme",
+  "dependencies": {
+    "discord.js": "^13.1.0"
+  }
+}
