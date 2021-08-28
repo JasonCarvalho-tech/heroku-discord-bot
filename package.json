@@ -4,7 +4,7 @@
   "description": "A discord bot",
   "main": "index.js",
   "enigines": {
-    "node": "16.6.x",
+    "node": "16.8.0",
     "npm": "7.x"
   },
   "scripts": {
